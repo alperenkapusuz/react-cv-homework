@@ -1,0 +1,22 @@
+.header{
+    width: 60%;
+    position: relative;
+    margin: auto;
+    background-color:aliceblue ;
+    padding: 20px;
+}
+
+.header-name {
+    text-align: center;
+    font-size: large;
+    color:cornsilk;
+    background-color:cadetblue;
+
+}
+
+.header-job {
+    text-align: center;
+    font-size: medium;
+    margin: auto;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,23 @@
+.education{
+  position: relative;
+  width: 60%;
+  margin: auto;
+  background-color:azure; 
+  padding: 20px;
+}
+.hr{
+  font-size: 5px;
+}
+.education__item p {    
+  margin-bottom: var(--spacing-1)
+}
+.education__title {  
+  font-weight: 500;
+}
+.education__date {
+  margin-bottom: 0;
+}
+.education__location {
+  font-weight: 300;
+  color:var(--date-color);
+}

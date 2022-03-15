@@ -1,0 +1,21 @@
+.experience{
+    position: relative;
+    width: 60%;
+    margin: auto;
+    background-color:aliceblue; 
+    padding: 20px;
+    
+}
+.experience__item p {    
+  margin-bottom: var(--spacing-1)
+}
+.experience__title {  
+  font-weight: 500;
+}
+.experience__date {
+  margin-bottom: 0;
+}
+.experience__location {
+  font-weight: 300;
+  color:var(--date-color);
+}

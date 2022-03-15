@@ -1,0 +1,11 @@
+.computerSkills{
+    position: relative;
+    width: 60%;
+    margin: auto;
+    background-color:azure; 
+    padding: 20px;
+  }
+
+  .computerSkills__item p {    
+    margin-bottom: var(--spacing-1)
+  }
