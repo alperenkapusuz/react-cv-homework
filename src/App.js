@@ -6,6 +6,7 @@ import ComputerSkillsData from "./components/data/ComputerSkillsData";
 import Experience from "./components/experience/Experience"
 import Education from "./components/education/Education"
 import ComputerSkills from "./components/computerSkills/ComputerSkills"
+import Contact from "./components/contact/Contact"
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <div><Education data={EducationData} /></div>
       <div><Experience data={ExperienceData} /></div>
       <div><ComputerSkills data={ComputerSkillsData} /></div>
+      <div><Contact /></div>
     </div>
   );
 };

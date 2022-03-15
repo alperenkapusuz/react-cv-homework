@@ -10,7 +10,7 @@ const Header = () => {
         </div>
         {/* meslek */}
         <div className="header-job">
-            <h1>Bilgisayar Mühendisliği</h1>
+            <h1>Bilgisayar Mühendisi</h1>
         </div>
     </div>
   )
