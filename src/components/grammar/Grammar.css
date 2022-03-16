@@ -10,6 +10,7 @@
 
   .grammar__heading{
     text-align: center;
+    border-radius:10px;
   }
 
   .grammar__item {  

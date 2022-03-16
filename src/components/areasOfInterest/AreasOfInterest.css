@@ -10,6 +10,7 @@
 
   .areasOfInterest__heading{
     text-align: center;
+    border-radius:10px;
   }
 
   .areasOfInterest__item {  

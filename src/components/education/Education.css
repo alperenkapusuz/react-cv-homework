@@ -1,22 +1,29 @@
 .education{
   position: relative;
   width: 60%;
+  height: 220px;
   margin: auto;
-  background-color:slategrey; 
+  background-color:aliceblue ; 
   padding: 20px;
   margin-bottom: 10px;
   margin-top: 10px;
   border-radius:10px;
 }
 
+.education__row{
+  float: left;
+  margin: auto 15px;
+}
+
 .education__heading{
   text-align: center;
+  border-radius:10px;
 }
 .education__item{
   border-radius: 10px;
   margin-bottom: 5px;
   padding: 10px;
-  background-color: white;;
+  background-color: white;
 }
 .education__item p {    
   margin-bottom: var(--spacing-1)

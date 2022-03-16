@@ -11,6 +11,7 @@
 
   .computerSkills__heading{
     text-align: center;
+    border-radius:10px;
   }
 
   .computerSkills__item {  

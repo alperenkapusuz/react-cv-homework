@@ -2,7 +2,7 @@
     position: relative;
     width: 60%;
     margin: auto;
-    background-color:rgb(218, 218, 218); 
+    background-color:aliceblue; 
     padding: 20px;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -11,6 +11,7 @@
 
 .contact__heading{
     text-align: center;
+    border-radius:10px;
 }
 
 .contact__item{
