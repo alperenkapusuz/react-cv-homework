@@ -21,7 +21,7 @@ export const ComputerSkillsData = [
     },
     {
         id: 5,
-        skill: "React",
+        skill: "Python",
         point: "3"
     },
 

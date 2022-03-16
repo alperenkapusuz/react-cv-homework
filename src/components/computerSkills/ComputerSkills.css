@@ -4,8 +4,31 @@
     margin: auto;
     background-color:azure; 
     padding: 20px;
+    margin-bottom:100px;
   }
 
-  .computerSkills__item p {    
-    margin-bottom: var(--spacing-1)
+  .computerSkills__item {  
+    float: left; 
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:cadetblue;
+    border-radius: 24px;
+    height: 40px;
+    width: 100px;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .computerSkills__item__point{
+    background-color:azure;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
   }
