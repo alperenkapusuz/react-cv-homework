@@ -16,10 +16,12 @@
   border-radius: 10px;
   margin-bottom: 5px;
   padding: 10px;
-  background-color: white;;
+  background-color: white;
+
 }
 
 .experience__item p {    
+  
   margin-bottom: var(--spacing-1)
 }
 .experience__title {  
