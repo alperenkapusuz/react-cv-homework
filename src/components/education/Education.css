@@ -2,11 +2,21 @@
   position: relative;
   width: 60%;
   margin: auto;
-  background-color:azure; 
+  background-color:slategrey; 
   padding: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius:10px;
 }
-.hr{
-  font-size: 5px;
+
+.education__heading{
+  text-align: center;
+}
+.education__item{
+  border-radius: 10px;
+  margin-bottom: 5px;
+  padding: 10px;
+  background-color: white;;
 }
 .education__item p {    
   margin-bottom: var(--spacing-1)

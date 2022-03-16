@@ -1,24 +1,23 @@
-.computerSkills{
+.grammar{
     position: relative;
-    width:300px;
-    height: 450px;
+    width: 307px;
     margin: auto;
-    background-color:white;
+    background-color:white; 
     padding: 20px;
     margin-top: 10px;
     border-radius:10px;
   }
 
-  .computerSkills__heading{
+  .grammar__heading{
     text-align: center;
   }
 
-  .computerSkills__item {  
-    margin-bottom: 10px;
+  .grammar__item {  
+    
     margin-left: 40px; 
   }
 
-  .computerSkills__item__point{
+  .grammar__item__point{
     background-color:azure;
     margin-left: 10px;
     padding: 10px;

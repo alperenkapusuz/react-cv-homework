@@ -1,0 +1,25 @@
+.skillsGrammarInterest{
+    position: relative;
+    width: 60%;
+    height: 500px;
+    margin: auto;
+    background-color:slategrey; 
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius:10px;
+}
+
+.skillsGrammarInterest__skill{
+    float: left;
+    width: 450px;
+}
+
+.skillsGrammarInterest__gram{
+    margin-left: 500px;
+   width:450px
+}
+
+.skillsGrammarInterest__Int{
+   margin-left: 535px;
+}
